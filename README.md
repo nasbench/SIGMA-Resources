@@ -30,6 +30,7 @@ Resources To Learn And Understand SIGMA Rules
 * [Sigma - Generic Signatures for Log Events by Thomas Patzke](https://www.youtube.com/watch?v=OheVuE9Ifhs)
 * [Security Talks with SOC Prime: Implementing & Customizing SIGMA](https://tdm.socprime.com/education)
 * [Security Talks with SOC Prime: All About SIGMA](https://www.youtube.com/watch?v=HTCoQPSnIiU)
+* [[SIGMA] 2.1 - Case Study 1 - Windows Event Logs - Background and Sample Rule by Applied Network Defense](https://vimeo.com/556287539/7ccac2e5b7)
 
 ## Courses
 
