@@ -1,2 +1,49 @@
 # SIGMA-Resources
+
 Resources To Learn And Understand SIGMA Rules
+
+## SIGMA Specification
+
+* [Sigma Specification by SigmaHQ](https://github.com/SigmaHQ/sigma/wiki/Specification)
+
+## Blogs
+
+* [Sigma Rule Creation Guide by SigmaHQ](https://github.com/SigmaHQ/sigma/wiki/Rule-Creation-Guide)
+* [Introducing Generic Log Sources in Sigma by Thomas Patzkes](https://patzke.org/introducing-generic-log-sources-in-sigma.html)
+* [A Guide to Generic Log Sources in Sigma by Thomas Patzkes](https://patzke.org/a-guide-to-generic-log-sources-in-sigma.html)
+* [How to Write Sigma Rules](https://www.nextron-systems.com/2018/02/10/write-sigma-rules/)
+* [The Best Possible Monitoring with Sigma Rules](https://www.nextron-systems.com/2017/07/06/the-best-possible-monitoring-with-sigma-rules/)
+* [What is Sigma? Threat Hunting in SIEM Products with Sigma Rules – Example Sigma Rules](https://www.systemconf.com/2021/03/21/what-is-sigma-threat-hunting-in-siem-products-with-sigma-rules-example-sigma-rules/)
+* [Threat Detection with SIGMA Rules](https://www.loginsoft.com/blog/2020/06/17/threat-detection-with-sigma-rules/)
+
+## Cheat Sheets
+
+* [Sigma – Detection Expression](https://drive.google.com/file/d/1nayvP3m8GD8cxV_nrk6459mHDV2xaqFB/view)
+
+## Slides
+
+* [Sigma - Generic Signatures for SIEM Systems by Florian Roth](https://www.slideshare.net/secret/gvgxeXoKblXRcA)
+* [Threat Hunting with Application Logs and Sigma by Thomas Patzke](https://www.owasp.org/images/a/a8/GOD17-Sigma.pdf)
+
+## Talks / Webinars
+
+* [Sigma - Generic Signatures for Log Events by Thomas Patzke](https://www.youtube.com/watch?v=OheVuE9Ifhs)
+* [Security Talks with SOC Prime: Implementing & Customizing SIGMA](https://tdm.socprime.com/education)
+* [Security Talks with SOC Prime: All About SIGMA](https://www.youtube.com/watch?v=HTCoQPSnIiU)
+
+## Courses
+
+* [Detection Engineering with Sigma by Applied Network Defense](https://www.networkdefense.co/courses/sigma/)
+
+## Rules Repositories
+
+* [SigmaHQ - Rules](https://github.com/SigmaHQ/sigma/tree/master/rules)
+* [SOC Prime - Rules](https://sigma.socprime.com/#!/)
+* [Joe Security - Rules](https://github.com/joesecurity/sigma-rules/tree/master/rules)
+* [Michel de CREVOISIER - Rules](https://github.com/mdecrevoisier/SIGMA-detection-rules)
+
+## SIGMA Rules Converters
+
+* [UNCODER.IO](https://uncoder.io/)
+* [SIGMAC](https://github.com/SigmaHQ/sigma/blob/master/tools/README.md)
+* [SIGMA UI](https://github.com/socprime/SigmaUI)
