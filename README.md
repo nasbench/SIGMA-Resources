@@ -5,6 +5,7 @@ Resources To Learn And Understand SIGMA Rules
 ## SIGMA Specification
 
 * [Sigma Specification by SigmaHQ](https://github.com/SigmaHQ/sigma/wiki/Specification)
+* [Anatomy of a Sigma Rule](https://speakerdeck.com/fr0gger/sigma-rules-cheat-sheet)
 
 ## Blogs
 
