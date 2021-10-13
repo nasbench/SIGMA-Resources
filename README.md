@@ -32,10 +32,15 @@ Resources To Learn And Understand SIGMA Rules
 * [Security Talks with SOC Prime: Implementing & Customizing SIGMA](https://tdm.socprime.com/education)
 * [Security Talks with SOC Prime: All About SIGMA](https://www.youtube.com/watch?v=HTCoQPSnIiU)
 * [[SIGMA] 2.1 - Case Study 1 - Windows Event Logs - Background and Sample Rule by Applied Network Defense](https://vimeo.com/556287539/7ccac2e5b7)
+* [How to Level Up Your Threat Detection Practice by SANS](https://www.sans.org/webcasts/level-threat-detection-practice-119845/)
 
 ## Courses
 
 * [Detection Engineering with Sigma by Applied Network Defense](https://www.networkdefense.co/courses/sigma/)
+
+## Books
+
+* [Practical Threat Intelligence and Data-Driven Threat Hunting](https://www.packtpub.com/product/practical-threat-intelligence-and-data-driven-threat-hunting/9781838556372) - Chapter 5 Include an Introduction to SIGMA Rules.
 
 ## Rules Repositories
 
