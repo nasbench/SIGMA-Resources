@@ -25,6 +25,7 @@ Resources To Learn And Understand SIGMA Rules
 
 * [Sigma - Generic Signatures for SIEM Systems by Florian Roth](https://www.slideshare.net/secret/gvgxeXoKblXRcA)
 * [Threat Hunting with Application Logs and Sigma by Thomas Patzke](https://www.owasp.org/images/a/a8/GOD17-Sigma.pdf)
+* [Sigma Hall of Fame - EU ATT&CK User Workshop, October 2021 by Florian Roth](https://www.slideshare.net/FlorianRoth2/sigma-hall-of-fame-eu-attck-user-workshop-october-2021)
 
 ## Talks / Webinars
 
