@@ -49,6 +49,7 @@ Resources To Learn And Understand SIGMA Rules
 * [SOC Prime - Rules](https://sigma.socprime.com/#!/)
 * [Joe Security - Rules](https://github.com/joesecurity/sigma-rules/tree/master/rules)
 * [Michel de CREVOISIER - Rules](https://github.com/mdecrevoisier/SIGMA-detection-rules)
+* [The DFIR Report](https://github.com/The-DFIR-Report/Sigma-Rules)
 
 ## SIGMA Rules Converters
 
