@@ -56,4 +56,4 @@ Resources To Learn And Understand SIGMA Rules
 * [UNCODER.IO](https://uncoder.io/)
 * [SIGMAC](https://github.com/SigmaHQ/sigma/blob/master/tools/README.md)
 * [SIGMA UI](https://github.com/socprime/SigmaUI)
-* [sigmaio - sigma in, anything out](https://sigmaio.herokuapp.com/)
+* [sigmaio - sigma in, anything out](https://sigmaio.app/)
